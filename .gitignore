@@ -147,5 +147,9 @@ gradle-app.setting
 # End of https://www.toptal.com/developers/gitignore/api/intellij,gradle,macos
 
 generated
+<<<<<<< HEAD
 
 .idea
+=======
+/bin/
+>>>>>>> 16d191c (configure back with build)
